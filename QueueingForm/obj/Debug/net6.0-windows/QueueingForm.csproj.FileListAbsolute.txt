@@ -1,0 +1,55 @@
+C:\Users\Suarez.253740\source\repos\QueueingForm\QueueingForm\bin\Debug\net6.0-windows\QueueingForm.exe
+C:\Users\Suarez.253740\source\repos\QueueingForm\QueueingForm\bin\Debug\net6.0-windows\QueueingForm.deps.json
+C:\Users\Suarez.253740\source\repos\QueueingForm\QueueingForm\bin\Debug\net6.0-windows\QueueingForm.runtimeconfig.json
+C:\Users\Suarez.253740\source\repos\QueueingForm\QueueingForm\bin\Debug\net6.0-windows\QueueingForm.dll
+C:\Users\Suarez.253740\source\repos\QueueingForm\QueueingForm\bin\Debug\net6.0-windows\QueueingForm.pdb
+C:\Users\Suarez.253740\source\repos\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\QueueingForm.csproj.AssemblyReference.cache
+C:\Users\Suarez.253740\source\repos\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\QueueingForm.CashierWindowQueueingForm.resources
+C:\Users\Suarez.253740\source\repos\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\QueueingForm.Form1.resources
+C:\Users\Suarez.253740\source\repos\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\QueueingForm.csproj.GenerateResource.cache
+C:\Users\Suarez.253740\source\repos\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\QueueingForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suarez.253740\source\repos\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\QueueingForm.AssemblyInfoInputs.cache
+C:\Users\Suarez.253740\source\repos\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\QueueingForm.AssemblyInfo.cs
+C:\Users\Suarez.253740\source\repos\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\QueueingForm.csproj.CoreCompileInputs.cache
+C:\Users\Suarez.253740\source\repos\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\QueueingForm.dll
+C:\Users\Suarez.253740\source\repos\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\refint\QueueingForm.dll
+C:\Users\Suarez.253740\source\repos\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\QueueingForm.pdb
+C:\Users\Suarez.253740\source\repos\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\QueueingForm.genruntimeconfig.cache
+C:\Users\Suarez.253740\source\repos\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\ref\QueueingForm.dll
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\QueueingForm\QueueingForm\bin\Debug\net6.0-windows\QueueingForm.exe
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\QueueingForm\QueueingForm\bin\Debug\net6.0-windows\QueueingForm.deps.json
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\QueueingForm\QueueingForm\bin\Debug\net6.0-windows\QueueingForm.runtimeconfig.json
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\QueueingForm\QueueingForm\bin\Debug\net6.0-windows\QueueingForm.dll
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\QueueingForm\QueueingForm\bin\Debug\net6.0-windows\QueueingForm.pdb
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\QueueingForm.csproj.AssemblyReference.cache
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\QueueingForm.CashierWindowQueueingForm.resources
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\QueueingForm.Form1.resources
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\QueueingForm.csproj.GenerateResource.cache
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\QueueingForm.GeneratedMSBuildEditorConfig.editorconfig
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\QueueingForm.AssemblyInfoInputs.cache
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\QueueingForm.AssemblyInfo.cs
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\QueueingForm.csproj.CoreCompileInputs.cache
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\QueueingForm.dll
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\refint\QueueingForm.dll
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\QueueingForm.pdb
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\QueueingForm.genruntimeconfig.cache
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\ref\QueueingForm.dll
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\QueueingForm\QueueingForm\bin\Debug\net6.0-windows\QueueingForm.exe
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\QueueingForm\QueueingForm\bin\Debug\net6.0-windows\QueueingForm.deps.json
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\QueueingForm\QueueingForm\bin\Debug\net6.0-windows\QueueingForm.runtimeconfig.json
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\QueueingForm\QueueingForm\bin\Debug\net6.0-windows\QueueingForm.dll
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\QueueingForm\QueueingForm\bin\Debug\net6.0-windows\QueueingForm.pdb
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\QueueingForm.csproj.AssemblyReference.cache
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\QueueingForm.CashierWindowQueueingForm.resources
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\QueueingForm.CustomerView.resources
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\QueueingForm.Form1.resources
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\QueueingForm.csproj.GenerateResource.cache
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\QueueingForm.GeneratedMSBuildEditorConfig.editorconfig
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\QueueingForm.AssemblyInfoInputs.cache
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\QueueingForm.AssemblyInfo.cs
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\QueueingForm.csproj.CoreCompileInputs.cache
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\QueueingForm.dll
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\refint\QueueingForm.dll
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\QueueingForm.pdb
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\QueueingForm.genruntimeconfig.cache
+\\10.20.1.10\profiles$\Suarez.253740.STIBALAGTAS\Event-Driven Programming\QueueingForm\QueueingForm\obj\Debug\net6.0-windows\ref\QueueingForm.dll
